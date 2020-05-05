@@ -1,0 +1,3 @@
+[submodule "csgoapi"]
+	path = csgoapi
+	url = https://github.com/gustavo-cigaran/csgoapi.git
