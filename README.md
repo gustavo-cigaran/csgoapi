@@ -1,2 +1,2 @@
 # csgoapi
-API DE CSGO
+API based in 'Counter Strike Global Offensive'
